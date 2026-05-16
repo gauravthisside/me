@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Gaurav%20Karve&fontSize=80&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Student%20·%20Builder%20·%20Curious%20Mind&descSize=16&descAlignY=75&descColor=aaaacc" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Gaurav%20Karve&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&fontColor=c4b5fd&animation=fadeIn&fontAlignY=50&stroke=7c3aed&strokeWidth=2&desc=MCA%20Student%20·%20Builder%20·%20Curious%20Mind&descSize=18&descAlignY=68&descColor=aaaacc" width="100%" alt="header" />
 
 </div>
 
@@ -14,8 +14,8 @@
 
 <div align="center">
 
-<a href="https://github.com/yourusername">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Learning+something+new+every+day+%F0%9F%93%96;Turning+curiosity+into+code+%F0%9F%92%A1;Open+to+collaborate+%26+grow+together+%F0%9F%8C%B1;Currently+exploring+the+world+of+tech+%F0%9F%9A%80" alt="Typing SVG" />
+<a href="https://github.com/gauravthisside">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=MCA+Student+from+Pune%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Building+better2gether+%F0%9F%9A%80;Learning+something+new+every+day+%F0%9F%93%96;Music+%7C+Gaming+%7C+Anime+%7C+Code+%E2%9C%A8;Open+to+collaborate+%26+grow+together+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 </div>
@@ -33,23 +33,25 @@
 ### 🧭 &nbsp;About Me
 
 ```yaml
-name:       "Your Name"
-location:   "Your City, Country 🌍"
-education:  "B.Tech / BSc / BCA (Your Stream)"
-status:     "Student & Lifelong Learner"
+name:       "Gaurav Karve"
+location:   "Pune, India 🇮🇳"
+education:  "MCA (Master of Computer Applications)"
+status:     "Student & Builder"
 
 currently:
-  - learning:    "DSA + Web Dev"
-  - building:    "Cool side projects"
-  - reading:     "Clean Code by R. Martin"
+  - building:  "better2gether 🤝"
+  - learning:  "Full Stack Development"
+  - vibing_to: "Lo-fi + Anime OSTs 🎵"
 
 interests:
-  - "Open Source"
-  - "Problem Solving"
-  - "UI/UX Design"
-  - "Coffee ☕"
+  - "🎵 Music"
+  - "🎮 Gaming"
+  - "🌸 Anime"
+  - "💻 Open Source"
 
-fun_fact:   "I debug with console.log 🤫"
+fun_fact: >
+  I build things to bring
+  people together 🌐
 ```
 
 </td>
@@ -59,10 +61,9 @@ fun_fact:   "I debug with console.log 🤫"
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="coding gif" />
 
-<br/>
+<br/><br/>
 
-<!-- Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=gauravkarve&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gauravthisside&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
 
 </td>
 </tr>
@@ -80,14 +81,11 @@ fun_fact:   "I debug with console.log 🤫"
 
 <br/>
 
-<!-- Languages -->
 ![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=A78BFA)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f0c29?style=for-the-badge&logo=javascript&logoColor=A78BFA)
 ![C++](https://img.shields.io/badge/C++-0f0c29?style=for-the-badge&logo=c%2B%2B&logoColor=A78BFA)
 ![HTML5](https://img.shields.io/badge/HTML5-0f0c29?style=for-the-badge&logo=html5&logoColor=A78BFA)
 ![CSS3](https://img.shields.io/badge/CSS3-0f0c29?style=for-the-badge&logo=css3&logoColor=A78BFA)
-
-<!-- Frameworks / Tools -->
 ![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=A78BFA)
 ![Node.js](https://img.shields.io/badge/Node.js-0f0c29?style=for-the-badge&logo=node.js&logoColor=A78BFA)
 ![Git](https://img.shields.io/badge/Git-0f0c29?style=for-the-badge&logo=git&logoColor=A78BFA)
@@ -108,18 +106,18 @@ fun_fact:   "I debug with console.log 🤫"
 
 <br/>
 
-<a href="https://github.com/yourusername">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ccccee&rank_icon=github" />
+<a href="https://github.com/gauravthisside">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gauravthisside&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&icon_color=A78BFA&text_color=ccccee&rank_icon=github" />
 </a>
 &nbsp;
-<a href="https://github.com/yourusername">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ccccee" />
+<a href="https://github.com/gauravthisside">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravthisside&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=A78BFA&text_color=ccccee" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/yourusername">
-  <img width="70%" src="https://streak-stats.demolab.com?user=yourusername&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA" />
+<a href="https://github.com/gauravthisside">
+  <img width="70%" src="https://streak-stats.demolab.com?user=gauravthisside&theme=midnight-purple&hide_border=true&background=0f0c29&ring=A78BFA&fire=c4b5fd&currStreakLabel=A78BFA" />
 </a>
 
 </div>
@@ -132,28 +130,28 @@ fun_fact:   "I debug with console.log 🤫"
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=c4b5fd&hide_border=true&custom_title=Contribution%20Graph" width="90%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gauravthisside&theme=tokyo-night&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=c4b5fd&hide_border=true&custom_title=Gaurav's%20Contribution%20Graph%20%F0%9F%92%9C" width="90%" alt="activity graph" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CURRENTLY LEARNING                         -->
+<!--                    CURRENTLY WORKING ON                       -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🌱 &nbsp;Currently Learning
+### 🌱 &nbsp;Currently Working On
 
 <br/>
 
-| Topic | Progress | Status |
+| What | Progress | Status |
 |:---|:---|:---:|
-| Data Structures & Algorithms | `████████░░` 80% | 🔄 In Progress |
-| React.js | `██████░░░░` 60% | 🔄 In Progress |
-| System Design Basics | `████░░░░░░` 40% | 📖 Started |
-| Machine Learning | `██░░░░░░░░` 20% | 📌 Planned |
+| better2gether 🤝 | `████████░░` 80% | 🔄 Building |
+| Full Stack Dev | `██████░░░░` 60% | 🔄 In Progress |
+| DSA | `█████░░░░░` 50% | 📖 Grinding |
+| System Design | `███░░░░░░░` 30% | 📌 Exploring |
 
 </div>
 
@@ -169,27 +167,16 @@ fun_fact:   "I debug with console.log 🤫"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-0f0c29?style=for-the-badge&logo=twitter&logoColor=A78BFA)](https://twitter.com/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-0f0c29?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:youremail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://yourportfolio.dev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0f0c29?style=for-the-badge&logo=leetcode&logoColor=A78BFA)](https://leetcode.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://www.linkedin.com/in/gaurav-karve/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/gauravthisside)
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       QUOTE OF VIBE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-> *"The expert in anything was once a beginner."* — Helen Hayes
-
-</div>
+> *"The best way to predict the future is to build it."*
 
 <br/>
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          FOOTER                               -->
