@@ -62,7 +62,7 @@ fun_fact:   "I debug with console.log 🤫"
 <br/>
 
 <!-- Profile views badge -->
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gauravkarve&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" alt="profile views"/>
 
 </td>
 </tr>
