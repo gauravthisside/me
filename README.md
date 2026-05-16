@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&text=Gaurav%20Karve&fontSize=90&color=0:0f0c29,50:302b63,100:24243e&fontColor=c4b5fd&animation=fadeIn&fontAlignY=50&stroke=7c3aed&strokeWidth=2&desc=MCA%20Student%20·%20Builder%20·%20Curious%20Mind&descSize=18&descAlignY=68&descColor=aaaacc" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Gaurav%20Karve&fontSize=75&color=0:0f0c29,50:302b63,100:24243e&fontColor=c4b5fd&animation=fadeIn&fontAlignY=45&desc=MCA%20Student%20%C2%B7%20Builder%20%C2%B7%20Curious%20Mind&descSize=18&descAlignY=65&descColor=9d8ec7" width="100%" alt="header" />
 
 </div>
 
@@ -184,6 +184,6 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?section=footer&type=venom&height=120&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&height=120&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%" alt="footer" />
 
 </div>
