@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Your%20Name&fontSize=80&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Student%20·%20Builder%20·%20Curious%20Mind&descSize=16&descAlignY=75&descColor=aaaacc" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Gaurav%20Karve&fontSize=80&color=0:0f0c29,50:302b63,100:24243e&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Student%20·%20Builder%20·%20Curious%20Mind&descSize=16&descAlignY=75&descColor=aaaacc" width="100%" alt="header" />
 
 </div>
 
